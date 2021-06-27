@@ -1,0 +1,22 @@
+{
+  "name": "demo_jenkins_github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinhdangkhoa0201/demo_jenkins_github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinhdangkhoa0201/demo_jenkins_github/issues"
+  },
+  "homepage": "https://github.com/dinhdangkhoa0201/demo_jenkins_github#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
